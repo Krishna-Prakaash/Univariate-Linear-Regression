@@ -46,6 +46,7 @@ plt.show()
 
 ```
 ## Sample Input and Output
+## INPUT:
 ![inp](./input.jpg)
 
 ## OUTPUT:
